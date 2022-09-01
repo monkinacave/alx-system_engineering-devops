@@ -1,3 +1,3 @@
-#/bin/bash
-# "Just printing some shit!"
+#!/bin/bash
+# "Comment"
 pwd
