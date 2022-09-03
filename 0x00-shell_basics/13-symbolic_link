@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo ln -s  /bin/ls/_l_ ./
+ln -s  /bin/ls/_l_ ./
